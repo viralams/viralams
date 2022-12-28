@@ -6,7 +6,7 @@ Software Engineer
 
 * 🌍  I'm based in Chicago
 * ✉️  You can contact me at [sharan.sreedar@upstart.com](mailto:sharan.sreedar@upstart.com)
-* 🧠  I'm learning Rust Async
+* 🧠  I'm learning to be an adult
 
 ### Skills
 
