@@ -8,6 +8,10 @@ Software Engineer
 * ✉️  You can contact me at [sharan.sreedar@upstart.com](mailto:sharan.sreedar@upstart.com)
 * 🧠  I'm learning to be an adult
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ### Skills
 
 
@@ -38,5 +42,3 @@ Software Engineer
 
 <a href="http://www.github.com/viralams"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=viralams&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
-
-<!--START_SECTION:waka--><!--END_SECTION:waka-->
