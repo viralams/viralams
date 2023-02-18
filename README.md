@@ -41,12 +41,12 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```text
-Ruby              20 hrs 12 mins  ████████████▒░░░░░░░░░░░░   49.23 %
-sh                7 hrs 32 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.39 %
-Lua               3 hrs 7 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 %
-Smarty            1 hr 53 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.61 %
-Jenkinsfile       1 hr 40 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
-TypeScript        1 hr 1 min      ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.50 %
+Ruby              21 hrs 53 mins  ████████████░░░░░░░░░░░░░   47.40 %
+sh                9 hrs 8 mins    █████░░░░░░░░░░░░░░░░░░░░   19.80 %
+Lua               3 hrs 43 mins   ██░░░░░░░░░░░░░░░░░░░░░░░   08.08 %
+Jenkinsfile       2 hrs 7 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.59 %
+TypeScript        2 hrs 1 min     █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Other             1 hr 21 mins    ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.96 %
 ```
 
 <!--END_SECTION:waka-->
