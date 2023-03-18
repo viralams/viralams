@@ -41,9 +41,9 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```text
-Ruby              10 hrs 6 mins   ██████████████▓░░░░░░░░░░   58.12 %
-sh                5 hrs 44 mins   ████████▒░░░░░░░░░░░░░░░░   32.98 %
-Other             34 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Ruby              5 hrs 54 mins   ████████████▒░░░░░░░░░░░░   48.76 %
+sh                5 hrs 7 mins    ██████████▓░░░░░░░░░░░░░░   42.39 %
+Other             12 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
