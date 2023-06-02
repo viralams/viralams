@@ -40,7 +40,7 @@ Software Engineer
 
 <!--START_SECTION:waka-->
 
-```text
+```txt
 Ruby         45 mins         █████████▒░░░░░░░░░░░░░░░   37.90 %
 sh           30 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
 textmate     18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
