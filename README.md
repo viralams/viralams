@@ -41,11 +41,7 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby         45 mins         █████████▒░░░░░░░░░░░░░░░   37.90 %
-sh           30 mins         ██████▒░░░░░░░░░░░░░░░░░░   25.46 %
-textmate     18 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.61 %
-JSON         16 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   13.31 %
-Other        6 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
