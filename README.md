@@ -41,7 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Ruby        54 mins         █████████████████▓░░░░░░░   70.51 %
+sh          18 mins         ██████░░░░░░░░░░░░░░░░░░░   24.40 %
+YAML        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
+Bash        1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.50 %
+.env file   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.99 %
 ```
 
 <!--END_SECTION:waka-->
