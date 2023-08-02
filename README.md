@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin                13 hrs 53 mins  ██████████▓░░░░░░░░░░░░░░   42.08 %
-Ruby                  11 hrs 9 mins   ████████▒░░░░░░░░░░░░░░░░   33.81 %
-sh                    4 hrs 36 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.95 %
-Slim                  1 hr 31 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.62 %
-HTTP Request          1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
+Kotlin                14 hrs 54 mins  ██████████▒░░░░░░░░░░░░░░   41.39 %
+Ruby                  12 hrs 22 mins  ████████▓░░░░░░░░░░░░░░░░   34.33 %
+sh                    4 hrs 43 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Slim                  2 hrs 1 min     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.63 %
+HTTP Request          1 hr 5 mins     ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.05 %
 ```
 
 <!--END_SECTION:waka-->
