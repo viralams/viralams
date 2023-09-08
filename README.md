@@ -41,11 +41,7 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Rust        1 hr 20 mins    ████████████░░░░░░░░░░░░░   47.43 %
-Ruby        46 mins         ██████▓░░░░░░░░░░░░░░░░░░   27.24 %
-sh          25 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-Text        11 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.61 %
-YAML        3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.11 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
