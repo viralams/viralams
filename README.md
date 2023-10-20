@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby              7 hrs 14 mins   █████████████████▓░░░░░░░   70.51 %
-sh                2 hrs 14 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.89 %
-Protocol Buffer   25 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.10 %
-Markdown          7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.19 %
-YAML              6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.05 %
+Ruby              3 hrs 12 mins   ████████████████▒░░░░░░░░   64.71 %
+sh                1 hr 6 mins     █████▓░░░░░░░░░░░░░░░░░░░   22.22 %
+Protocol Buffer   25 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.50 %
+Markdown          6 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
+Bash              3 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.17 %
 ```
 
 <!--END_SECTION:waka-->
