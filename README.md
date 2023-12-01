@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Rust             16 hrs 5 mins   ███████████████▒░░░░░░░░░   61.52 %
-sh               4 hrs 36 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.61 %
-Ruby             4 hrs 23 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.78 %
-TypeScript       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.04 %
-JavaScript       13 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.84 %
+Rust             18 hrs 43 mins  ███████████████░░░░░░░░░░   60.27 %
+sh               5 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
+Ruby             5 hrs 11 mins   ████▒░░░░░░░░░░░░░░░░░░░░   16.69 %
+JavaScript       33 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.78 %
+TypeScript       16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.87 %
 ```
 
 <!--END_SECTION:waka-->
