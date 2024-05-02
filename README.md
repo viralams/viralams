@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby              7 hrs 6 mins    ██████████▒░░░░░░░░░░░░░░   40.68 %
-Kotlin            2 hrs 8 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.29 %
-Docker            1 hr 32 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
-textmate          1 hr 16 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   07.34 %
-YAML              59 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.71 %
+Ruby              6 hrs 27 mins   ██████████▒░░░░░░░░░░░░░░   41.58 %
+Kotlin            2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
+YAML              1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
+TypeScript        1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
+Protocol Buffer   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
 ```
 
 <!--END_SECTION:waka-->
