@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Ruby              6 hrs 27 mins   ██████████▒░░░░░░░░░░░░░░   41.58 %
-Kotlin            2 hrs 16 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.65 %
-YAML              1 hr 34 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.15 %
-TypeScript        1 hr 7 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.28 %
-Protocol Buffer   48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.22 %
+Ruby              3 hrs 7 mins    ██████░░░░░░░░░░░░░░░░░░░   24.65 %
+Kotlin            2 hrs 47 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.10 %
+TypeScript        1 hr 24 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.14 %
+YAML              1 hr 13 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.61 %
+Protocol Buffer   48 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.39 %
 ```
 
 <!--END_SECTION:waka-->
