@@ -41,7 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python        17 mins         ████████████████░░░░░░░░░   63.81 %
+Kotlin        4 mins          ████▒░░░░░░░░░░░░░░░░░░░░   16.99 %
+Lua           3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.11 %
+Ruby          1 min           █░░░░░░░░░░░░░░░░░░░░░░░░   04.08 %
+Other         0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.92 %
 ```
 
 <!--END_SECTION:waka-->
