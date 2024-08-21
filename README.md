@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-norg              2 hrs 52 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.27 %
-Protocol Buffer   2 hrs 26 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.33 %
-Python            2 hrs 25 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.28 %
-Lua               1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.27 %
-YAML              34 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.32 %
+norg              3 hrs 43 mins   ██████▓░░░░░░░░░░░░░░░░░░   26.59 %
+Python            2 hrs 59 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.31 %
+Protocol Buffer   2 hrs 44 mins   █████░░░░░░░░░░░░░░░░░░░░   19.56 %
+Ruby              1 hr 28 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.51 %
+Lua               1 hr 14 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   08.87 %
 ```
 
 <!--END_SECTION:waka-->
