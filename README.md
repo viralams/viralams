@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Python            13 hrs 30 mins  ██████████████████▒░░░░░░   73.83 %
-Protocol Buffer   1 hr            █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
-norg              47 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
-Markdown          37 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.42 %
-Terraform         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.35 %
+Python             14 hrs 25 mins  ██████████████████░░░░░░░   72.08 %
+norg               1 hr 13 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.08 %
+Protocol Buffer    43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 %
+Markdown           32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.73 %
+YAML               30 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.51 %
 ```
 
 <!--END_SECTION:waka-->
