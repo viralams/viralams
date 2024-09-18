@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Python             12 hrs 34 mins  ███████████████████░░░░░░   76.57 %
-Ruby               1 hr 49 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   11.15 %
-Markdown           32 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.31 %
-Other              24 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.49 %
-Protocol Buffer    16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.72 %
+Python             12 hrs 10 mins  ████████████████████░░░░░   79.94 %
+Ruby               1 hr 53 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.47 %
+Markdown           21 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.38 %
+Kotlin             9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.02 %
+PlantUML           9 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.01 %
 ```
 
 <!--END_SECTION:waka-->
