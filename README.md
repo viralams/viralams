@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Python             8 hrs 33 mins   ██████████████░░░░░░░░░░░   55.75 %
-YAML               1 hr 18 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.53 %
-requirements       1 hr 14 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.13 %
-Ruby               56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.13 %
-JSON               56 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.11 %
+Python             5 hrs 35 mins   █████████▓░░░░░░░░░░░░░░░   38.81 %
+Ruby               2 hrs 35 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
+YAML               1 hr 43 mins    ███░░░░░░░░░░░░░░░░░░░░░░   12.00 %
+JSON               1 hr 6 mins     ██░░░░░░░░░░░░░░░░░░░░░░░   07.72 %
+requirements       1 hr 3 mins     █▓░░░░░░░░░░░░░░░░░░░░░░░   07.32 %
 ```
 
 <!--END_SECTION:waka-->
