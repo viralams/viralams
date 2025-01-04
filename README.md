@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Kotlin            2 hrs 13 mins   ███████▒░░░░░░░░░░░░░░░░░   29.14 %
-Python            1 hr 47 mins    ██████░░░░░░░░░░░░░░░░░░░   23.49 %
-Ruby              1 hr 12 mins    ████░░░░░░░░░░░░░░░░░░░░░   15.67 %
-Protocol Buffer   31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.92 %
-Other             31 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.85 %
+Python            3 hrs 46 mins   █████████░░░░░░░░░░░░░░░░   35.44 %
+Kotlin            2 hrs 17 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.55 %
+Ruby              1 hr 55 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.04 %
+Other             35 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.53 %
+Protocol Buffer   32 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.07 %
 ```
 
 <!--END_SECTION:waka-->
