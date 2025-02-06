@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Python            2 hrs 30 mins   ██████████▓░░░░░░░░░░░░░░   42.59 %
-JSON              1 hr 9 mins     █████░░░░░░░░░░░░░░░░░░░░   19.77 %
-YAML              37 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   10.53 %
-Protocol Buffer   27 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.93 %
-Ruby              20 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.95 %
+Python            5 hrs 4 mins    █████████████████▓░░░░░░░   70.19 %
+JSON              1 hr 18 mins    ████▓░░░░░░░░░░░░░░░░░░░░   18.02 %
+Ruby              24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.62 %
+PlantUML          8 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.85 %
+Protocol Buffer   4 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.10 %
 ```
 
 <!--END_SECTION:waka-->
