@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-YAML              4 hrs 25 mins   ██████████░░░░░░░░░░░░░░░   40.31 %
-Kotlin            1 hr 47 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
-JSON              1 hr 3 mins     ██▒░░░░░░░░░░░░░░░░░░░░░░   09.68 %
-Python            49 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 %
-Java Properties   36 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
+YAML              4 hrs 32 mins   █████████▓░░░░░░░░░░░░░░░   39.26 %
+Kotlin            3 hrs 43 mins   ████████░░░░░░░░░░░░░░░░░   32.21 %
+JSON              1 hr 13 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.58 %
+Python            30 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.37 %
+Java Properties   24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 %
 ```
 
 <!--END_SECTION:waka-->
