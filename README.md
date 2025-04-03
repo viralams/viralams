@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown           3 hrs 46 mins   █████▓░░░░░░░░░░░░░░░░░░░   23.00 %
-YAML               3 hrs 42 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.60 %
-Kotlin             3 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   20.89 %
-Python             3 hrs 1 min     ████▓░░░░░░░░░░░░░░░░░░░░   18.46 %
-textmate           48 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.87 %
+Markdown           5 hrs 1 min     █████████▒░░░░░░░░░░░░░░░   37.47 %
+YAML               2 hrs 53 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.60 %
+Python             2 hrs 3 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   15.30 %
+Kotlin             1 hr 25 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+textmate           47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.94 %
 ```
 
 <!--END_SECTION:waka-->
