@@ -41,7 +41,10 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   5 mins          █████████████████████████   100.00 %
+Markdown   5 mins          ███████████████████████▓░   94.50 %
+Python     0 secs          █░░░░░░░░░░░░░░░░░░░░░░░░   04.31 %
+YAML       0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+Text       0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.06 %
 ```
 
 <!--END_SECTION:waka-->
