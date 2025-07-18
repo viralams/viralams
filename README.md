@@ -41,10 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Python            10 mins         ████████████████████████▒   97.14 %
-Protocol Buffer   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.24 %
-YAML              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 %
-Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 %
+Python            15 mins         ██████████████████████░░░   88.52 %
+YAML              1 min           █▓░░░░░░░░░░░░░░░░░░░░░░░   07.01 %
+Protocol Buffer   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.27 %
+protobuf          0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
+Text              0 secs          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 %
 ```
 
 <!--END_SECTION:waka-->
