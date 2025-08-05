@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Python            40 mins         ██████████▒░░░░░░░░░░░░░░   40.86 %
-textmate          30 mins         ███████▓░░░░░░░░░░░░░░░░░   31.07 %
-Java Properties   12 mins         ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-Markdown          5 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.46 %
-Text              4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   04.70 %
+Python            31 mins         ██████████░░░░░░░░░░░░░░░   39.83 %
+textmate          23 mins         ███████▒░░░░░░░░░░░░░░░░░   29.73 %
+Java Properties   12 mins         ████░░░░░░░░░░░░░░░░░░░░░   15.87 %
+Markdown          5 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   06.78 %
+Text              4 mins          █▒░░░░░░░░░░░░░░░░░░░░░░░   05.49 %
 ```
 
 <!--END_SECTION:waka-->
