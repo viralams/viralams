@@ -41,9 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown          4 mins          ██████████████████░░░░░░░   72.34 %
-Terraform         1 min           ██████▒░░░░░░░░░░░░░░░░░░   25.52 %
-Protocol Buffer   0 secs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.14 %
+YAML              1 hr 15 mins    ████████████▒░░░░░░░░░░░░   49.61 %
+Ruby              34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.85 %
+Python            22 mins         ███▓░░░░░░░░░░░░░░░░░░░░░   14.99 %
+Markdown          11 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.64 %
+Text              3 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.12 %
 ```
 
 <!--END_SECTION:waka-->
