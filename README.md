@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Python                         9 hrs 52 mins   ████████████▓░░░░░░░░░░░░   50.94 %
-Markdown                       2 hrs 21 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.14 %
-TOML                           1 hr 50 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.51 %
-Protocol Buffer                1 hr 48 mins    ██▒░░░░░░░░░░░░░░░░░░░░░░   09.37 %
-JSON                           39 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 %
+Python            10 hrs 38 mins  ██████████████▓░░░░░░░░░░   58.76 %
+Markdown          2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.25 %
+TOML              1 hr 2 mins     █▒░░░░░░░░░░░░░░░░░░░░░░░   05.75 %
+Protocol Buffer   46 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.30 %
+Other             41 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
 ```
 
 <!--END_SECTION:waka-->
