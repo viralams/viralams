@@ -41,7 +41,9 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-No activity tracked
+Python   37 mins         ██████████████████████▒░░   88.77 %
+Text     3 mins          ██░░░░░░░░░░░░░░░░░░░░░░░   08.44 %
+Other    1 min           ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.79 %
 ```
 
 <!--END_SECTION:waka-->
