@@ -41,9 +41,9 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Python   1 hr 26 mins          ███████████████▒░░░░░░░░░   61.75 %
-Ruby     37 mins               ██████▓░░░░░░░░░░░░░░░░░░   27.04 %
-Other    15 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   11.21 %
+Python   1 hr 50 mins          ████████████████▓░░░░░░░░   66.22 %
+Ruby     37 mins               █████▓░░░░░░░░░░░░░░░░░░░   22.84 %
+Other    18 mins               ██▓░░░░░░░░░░░░░░░░░░░░░░   10.94 %
 ```
 
 <!--END_SECTION:waka-->
