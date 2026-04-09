@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Python            4 hrs 19 mins         ████████░░░░░░░░░░░░░░░░░   31.80 %
-Other             4 hrs 17 mins         ████████░░░░░░░░░░░░░░░░░   31.56 %
-Markdown          2 hrs 31 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.58 %
-YAML              47 mins               █▒░░░░░░░░░░░░░░░░░░░░░░░   05.82 %
-Bash              30 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.72 %
+Other             5 hrs 35 mins         ████████░░░░░░░░░░░░░░░░░   32.61 %
+Python            4 hrs 33 mins         ██████▓░░░░░░░░░░░░░░░░░░   26.64 %
+Markdown          3 hrs 13 mins         ████▓░░░░░░░░░░░░░░░░░░░░   18.85 %
+TypeScript        1 hr 6 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.44 %
+YAML              1 hr 5 mins           █▓░░░░░░░░░░░░░░░░░░░░░░░   06.40 %
 ```
 
 <!--END_SECTION:waka-->
