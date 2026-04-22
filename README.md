@@ -41,11 +41,11 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     9 hrs 9 mins          ██████████░░░░░░░░░░░░░░░   39.96 %
-Other        4 hrs 54 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.43 %
-Python       3 hrs 56 mins         ████▒░░░░░░░░░░░░░░░░░░░░   17.21 %
-Ruby         1 hr 7 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   04.95 %
-Terraform    54 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   03.94 %
+Markdown     8 hrs 5 mins          █████████▓░░░░░░░░░░░░░░░   38.72 %
+Other        4 hrs 33 mins         █████▒░░░░░░░░░░░░░░░░░░░   21.81 %
+Python       3 hrs 3 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+Ruby         1 hr 7 mins           █▒░░░░░░░░░░░░░░░░░░░░░░░   05.42 %
+Terraform    54 mins               █░░░░░░░░░░░░░░░░░░░░░░░░   04.32 %
 ```
 
 <!--END_SECTION:waka-->
