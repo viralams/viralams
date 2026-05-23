@@ -41,11 +41,7 @@ Software Engineer
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown   3 hrs 50 mins         ██████████████████████▓░░   90.00 %
-HTML       23 mins               ██▒░░░░░░░░░░░░░░░░░░░░░░   09.22 %
-Text       1 min                 ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 %
-Ruby       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 %
-Bash       0 secs                ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 %
+No activity tracked
 ```
 
 <!--END_SECTION:waka-->
